@@ -18,4 +18,16 @@
     ------------- | ------------- | ------------- |
     Personal model | **100.00 %** | **0.0719** |
     
-   ![2](https://user-images.githubusercontent.com/88143329/155209236-90e39484-faf9-4b9d-a3a7-a7ba4cae2d0d.png)
+    
+  - Inference:
+
+      ## RUN
+      You can run  Inference with the following command
+      
+      **Please Download [Model](https://drive.google.com/drive/folders/1T2nxj_R8dLHoP_Kz9gQ9YCDAsIcUHjW1?usp=sharing)**
+
+      ```
+      $ pip install requirements.txt
+      
+      python inference.py [--input_model INPUT] [--input_image INPUT]
+      ```
